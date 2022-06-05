@@ -59,6 +59,5 @@ User.init(
       modelName: 'user'
     }
   );
-  IMPORTANT
 
 module.exports = User;
